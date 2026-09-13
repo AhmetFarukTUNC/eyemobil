@@ -1,0 +1,6 @@
+@eye_disease_HostAddress = http://localhost:5194
+
+GET {{eye_disease_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

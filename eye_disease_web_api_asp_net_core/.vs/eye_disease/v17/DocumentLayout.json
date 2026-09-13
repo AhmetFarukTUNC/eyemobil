@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atunc\\source\\repos\\eye_disease\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EyeAI_DB/True/SqlTable/dbo.Predictions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\dtos\\predictionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\dtos\\predictionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EyeAI_DB/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\models\\airesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\models\\airesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\eye_disease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\eye_disease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|c:\\users\\atunc\\source\\repos\\eye_disease\\eye_disease\\migrations\\20260711014643_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC27BA12-EBBA-43E5-9AE9-802C913AE95D}|eye_disease\\eye_disease.csproj|solutionrelative:eye_disease\\migrations\\20260711014643_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\Gender.cs",
+              "RelativeToolTip": "eye_disease\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:19:51.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Services\\AIService.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Services\\AIService.cs",
+              "RelativeToolTip": "eye_disease\\Services\\AIService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwFsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:02:15.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIResult.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\AIResult.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Models\\AIResult.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\AIResult.cs",
+              "RelativeToolTip": "eye_disease\\Models\\AIResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:01:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PredictionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\DTOs\\PredictionRequest.cs",
+              "RelativeDocumentMoniker": "eye_disease\\DTOs\\PredictionRequest.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\DTOs\\PredictionRequest.cs",
+              "RelativeToolTip": "eye_disease\\DTOs\\PredictionRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:53:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "eye_disease\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:50:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EyeAI_DB/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-11T01:47:46.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Predictions [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EyeAI_DB/True/SqlTable/dbo.Predictions.sql",
+              "ToolTip": "dbo.Predictions [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-11T01:47:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260711014643_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Migrations\\20260711014643_InitialCreate.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Migrations\\20260711014643_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Migrations\\20260711014643_InitialCreate.cs",
+              "RelativeToolTip": "eye_disease\\Migrations\\20260711014643_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:46:43.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Program.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Program.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Program.cs",
+              "RelativeToolTip": "eye_disease\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:34:11.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\appsettings.json",
+              "RelativeDocumentMoniker": "eye_disease\\appsettings.json",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\appsettings.json",
+              "RelativeToolTip": "eye_disease\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T01:33:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "eye_disease\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:32:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\Prediction.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Models\\Prediction.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\Prediction.cs",
+              "RelativeToolTip": "eye_disease\\Models\\Prediction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:31:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "eye_disease\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\Models\\Patient.cs",
+              "RelativeToolTip": "eye_disease\\Models\\Patient.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:31:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eye_disease.csproj",
+              "DocumentMoniker": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\eye_disease.csproj",
+              "RelativeDocumentMoniker": "eye_disease\\eye_disease.csproj",
+              "ToolTip": "C:\\Users\\atunc\\source\\repos\\eye_disease\\eye_disease\\eye_disease.csproj",
+              "RelativeToolTip": "eye_disease\\eye_disease.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T01:24:18.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
